@@ -1,0 +1,3 @@
+Jake wants to open a museum, and from time to time he wants to perform exhibitioons for different artists.
+He wants to create a new space, which he calls sections, for each of them.
+We want to write a section creator for new artists where the exhibition will be performed.
