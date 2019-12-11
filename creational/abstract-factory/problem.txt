@@ -1,0 +1,5 @@
+  Jake opened a sewing shop that makes clothes, particularly trousers and jackets.
+  This shop uses cotton and wool as their material.
+  Jake thinks that he will expand his shop to include other types of clothes and materials as well in the future.
+
+  Our objective is to help Jake write an application what will deal with customers' interactions with clothes, without dependencies on any particular material.
